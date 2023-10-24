@@ -7,8 +7,8 @@
 - 💬 Ask me about **react,express**
 
 - 📫 How to reach me **scientisthassannahid@gmail.com**
-- 📫 Portfolio <a herf="https://famous-khapse-e70144.netlify.app/" target="blank">Hassan Nahid Portfolio</a>
-
+- 👨‍💻 All of my projects are available at [https://famous-khapse-e70144.netlify.app/](https://famous-khapse-e70144.netlify.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hassannahid100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassannahid100" height="30" width="40" /></a>

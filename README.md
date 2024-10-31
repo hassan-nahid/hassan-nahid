@@ -7,7 +7,7 @@
 - 💬 Ask me about **react,express**
 
 - 📫 How to reach me **scientisthassannahid@gmail.com**
-- 👨‍💻 All of my projects are available at [https://hassannahid.netlify.app/](https://hassannahid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hassannahid.me](https://hassannahid.me)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

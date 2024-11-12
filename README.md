@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/hassannahid100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassannahid100" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hassan-nahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-nahid" height="30" width="40" /></a>
-<a href="https://fb.com/hassan.nahid.754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.nahid.754" height="30" width="40" /></a>
-<a href="https://instagram.com/hassan.nahid.754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.nahid.754" height="30" width="40" /></a>
+<a href="https://fb.com/hassannahid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.nahid.754" height="30" width="40" /></a>
+<a href="https://instagram.com/hassannahid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.nahid.754" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hassannahid4322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UCCZSA9486PugJVJZmD2grPw" height="30" width="40" /></a>
 </p>
 

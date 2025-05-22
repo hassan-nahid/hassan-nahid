@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react,express**
 
-- 📫 How to reach me **scientisthassannahid@gmail.com**
+- 📫 How to reach me **hassan.nahid.dev@gmail.com**
 - 👨‍💻 All of my projects are available at [https://hassannahid.me](https://hassannahid.me)
   
 <h3 align="left">Connect with me:</h3>

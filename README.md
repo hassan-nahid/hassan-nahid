@@ -1,75 +1,229 @@
-![Header](./hassan-nahid-banner.png)
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Hassan%20Nahid&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Hassan Nahid" width="100%"/>
 
-## 💫 About Me:
-<br>
+<a href="https://github.com/hassan-nahid">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Scalable+backends+and+clean+interfaces;Multi-tenant+SaaS+%C2%B7+Cloud+%C2%B7+DevOps;Open+to+collaborations+and+opportunities" alt="Typing SVG" />
+</a>
 
-Hello! I'm Hassan Nahid, a passionate full-stack developer with a strong background in building modern web applications. I specialize in TypeScript, JavaScript, React, Next.js, Node.js, and a variety of backend and cloud technologies. My focus is on creating scalable, performant, and user-friendly solutions that make a difference.
+<br/><br/>
 
-I enjoy collaborating with teams, learning new technologies, and solving challenging problems. Whether it's designing robust APIs, crafting beautiful UIs, or deploying apps to the cloud, I strive for excellence in every project.
+<a href="https://linkedin.com/in/hassan-nahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hassan.nahid.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/HassanNahid100"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://facebook.com/HassanNahid10"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://instagram.com/HassanNahid10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-**Let's connect and build something amazing together!**
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HassanNahid10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HassanNahid10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-nahid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HassanNahid100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scientisthassannahid@gmail.com) 
+<!-- ===================== ABOUT ===================== -->
+## About Me
 
-## 💻 Tech Stack:
+I'm a **Full Stack Developer** from Bangladesh who enjoys building scalable, production-ready web products, from the database and API layer to the last pixel in the browser.
 
-### 🖥️ Frontend
-<p>
-	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-	<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-	<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-	<img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-	<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-	<img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-	<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
+My daily toolkit is **TypeScript, React, Next.js, Node.js and MongoDB/PostgreSQL**, backed by solid cloud and DevOps fundamentals so what I build actually ships and stays up. I also run **[OikkoSoft](https://oikkosoft.com)**, a small software company where I build SaaS products.
 
-### 🛠️ Backend
-<p>
-	<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-	<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-	<img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-	<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-	<img src="https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-	<img src="https://img.shields.io/badge/SSL-008000.svg?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL"/>
-	<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-	<img src="https://img.shields.io/badge/RESTful_APIs-005571.svg?style=for-the-badge" alt="RESTful APIs"/>
-</p>
+```text
+Location   :  Sirajganj, Bangladesh
+Languages  :  Bengali (Native) · English (Professional Proficiency)
+```
 
-### ☁️ Other & Tools
-<p>
-	<img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-	<img src="https://img.shields.io/badge/Chrome_Dev_Tools-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Dev Tools"/>
-	<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-	<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-	<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
-	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-	<img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-	<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
+<br/>
 
-### 🧩 Familiar With
-<p>
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-	<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</p>
+<!-- ===================== WHAT I DO ===================== -->
+## What I Do
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hassan-nahid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-nahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%2338bdf8" width="44" height="44" alt=""/><br/><br/>
+      <b>Frontend Engineering</b><br/>
+      <sub>Responsive, fast and maintainable UIs with React and Next.js</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%2338bdf8" width="44" height="44" alt=""/><br/><br/>
+      <b>Backend & APIs</b><br/>
+      <sub>Secure REST APIs, authentication, queues and data modeling</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/cloud.svg?color=%2338bdf8" width="44" height="44" alt=""/><br/><br/>
+      <b>Cloud & DevOps</b><br/>
+      <sub>Linux servers, reverse proxies, CI/CD, backups and hardening</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/layers.svg?color=%2338bdf8" width="44" height="44" alt=""/><br/><br/>
+      <b>SaaS Architecture</b><br/>
+      <sub>Multi-tenant design, subscription billing and automation</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hassan-nahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ===================== TECH STACK ===================== -->
+## Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=hassan-nahid&icon=0&color=0)](https://visitcount.itsvg.in)
+### Frontend
+<sub>What users see and touch.</sub>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redux" width="52" height="52" alt="Redux"/><br/><sub><b>Redux</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="52" height="52" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+  </tr>
+</table>
+
+### Backend
+<sub>The logic, data and security behind the screen.</sub>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="52" height="52" alt="Express"/><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=prisma" width="52" height="52" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
+  </tr>
+</table>
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ"/>
+
+### DevOps & Cloud
+<sub>Getting it deployed, secured and backed up.</sub>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="52" height="52" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nginx" width="52" height="52" alt="Nginx"/><br/><sub><b>Nginx</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cloudflare" width="52" height="52" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=githubactions" width="52" height="52" alt="CI/CD"/><br/><sub><b>CI/CD</b></sub></td>
+  </tr>
+</table>
+
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+<img src="https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/>
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify"/>
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2"/>
+<img src="https://img.shields.io/badge/rclone-3F79AD?style=for-the-badge&logo=rclone&logoColor=white" alt="rclone"/>
+
+### SaaS & Systems
+<sub>Concepts I design and ship, beyond individual tools.</sub>
+
+<table>
+  <tr>
+    <td align="center" width="170"><img src="https://api.iconify.design/lucide/boxes.svg?color=%2338bdf8" width="40" height="40" alt=""/><br/><br/><b>Multi-tenant<br/>Architecture</b></td>
+    <td align="center" width="170"><img src="https://api.iconify.design/lucide/credit-card.svg?color=%2338bdf8" width="40" height="40" alt=""/><br/><br/><b>Subscription<br/>Billing</b></td>
+    <td align="center" width="170"><img src="https://api.iconify.design/lucide/send.svg?color=%2338bdf8" width="40" height="40" alt=""/><br/><br/><b>SMS / Email<br/>Automation</b></td>
+    <td align="center" width="170"><img src="https://api.iconify.design/lucide/database.svg?color=%2338bdf8" width="40" height="40" alt=""/><br/><br/><b>MongoDB<br/>Replica Set</b></td>
+    <td align="center" width="170"><img src="https://api.iconify.design/lucide/timer.svg?color=%2338bdf8" width="40" height="40" alt=""/><br/><br/><b>Background<br/>Job Queues</b></td>
+  </tr>
+</table>
+
+### Tools
+<sub>My everyday workspace.</sub>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="52" height="52" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="52" height="52" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== FEATURED ===================== -->
+## Featured Projects
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://oikkoedu.com">OikkoEdu</a> <sub>· Multi-tenant SaaS for coaching centers</sub></h3>
+      <ul>
+        <li>Per-tenant subdomain routing, student lifecycle, batch enrollment, attendance and fee tracking</li>
+        <li>Background jobs with BullMQ + Redis, including delayed SMS alerts</li>
+        <li>Subscription billing and SMS add-ons</li>
+        <li>Deployed on Hetzner Cloud with Coolify, Nginx, MongoDB Replica Set and automated backups</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt=""/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Gamify Learn</h3>
+      <sub><b>Gamified social learning platform</b></sub>
+      <ul>
+        <li>Social feed, challenges, points, badges, leaderboards and study squads</li>
+        <li>Redeemable rewards, real-time interactions and admin dashboard</li>
+        <li>JWT auth and Cloudinary media uploads</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt=""/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express" alt=""/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>WalletX</h3>
+      <sub><b>Digital wallet system</b></sub>
+      <ul>
+        <li>Role-based access for Admin, Agent and User</li>
+        <li>Wallet and transaction management with consistent, secure APIs</li>
+        <li>Reduced transaction errors by 20%</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt=""/>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express" alt=""/>
+      <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens" alt=""/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hassan-nahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-nahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="Top Languages"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=hassan-nahid&theme=tokyonight&hide_border=true&background=0f172a" alt="Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## Let's Connect
+
+Always happy to talk about web development, backend systems or working together on something worth building.
+
+<div align="center">
+
+<a href="mailto:hassan.nahid.dev@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-hassan.nahid.dev%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:1e3a8a,100:0f172a&section=footer" width="100%" alt="footer"/>
+
+</div>

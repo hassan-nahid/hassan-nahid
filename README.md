@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** from Bangladesh who enjoys building scalable, pro
 My daily toolkit is **TypeScript, React, Next.js, Node.js and MongoDB/PostgreSQL**, backed by solid cloud and DevOps fundamentals so what I build actually ships and stays up. I also run **[OikkoSoft](https://oikkosoft.com)**, a small software company where I build SaaS products.
 
 ```text
-Location   :  Sirajganj, Bangladesh
+Location   :  Dhaka, Bangladesh
 Languages  :  Bengali (Native) · English (Professional Proficiency)
 ```
 
@@ -209,7 +209,7 @@ Languages  :  Bengali (Native) · English (Professional Proficiency)
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=hassan-nahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-nahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="Top Languages"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=hassan-nahid&theme=tokyonight&hide_border=true&background=0f172a" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=hassan-nahid&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak"/>
 
 </div>
 

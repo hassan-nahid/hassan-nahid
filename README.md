@@ -28,7 +28,6 @@ My daily toolkit is **TypeScript, React, Next.js, Node.js and MongoDB/PostgreSQL
 
 ```text
 Location   :  Dhaka, Bangladesh
-Languages  :  Bengali (Native) · English (Professional Proficiency)
 ```
 
 <br/>
